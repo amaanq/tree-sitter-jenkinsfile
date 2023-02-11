@@ -1,0 +1,21 @@
+{
+  "name": "Jenkinsfile",
+  "rules": {
+    "source_file": {
+      "type": "STRING",
+      "value": "hi"
+    }
+  },
+  "extras": [
+    {
+      "type": "PATTERN",
+      "value": "\\s"
+    }
+  ],
+  "conflicts": [],
+  "precedences": [],
+  "externals": [],
+  "inline": [],
+  "supertypes": []
+}
+
